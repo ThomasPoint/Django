@@ -1,1 +1,1 @@
-# python
+# Django tutorial
